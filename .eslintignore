@@ -1,0 +1,6 @@
+dist/*
+.cache
+public
+components/ui/*
+node_modules
+*.esm.js
